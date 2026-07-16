@@ -1,6 +1,6 @@
 # android-mascot-plaque
 
-🔗 **Live Share:** [Click here to view the design](https://cad.onshape.com/documents/a5fe635f7bb983e83cf09ec4/w/67ad1f3195909346f6fce440/e/1b6b82258fe1152a7bfe8b25?renderMode=0&uiState=6a58545f0304265e3b526dd9)
+🔗 **Live Share:** [Click here to view the design on Onshape](https://cad.onshape.com/documents/a5fe635f7bb983e83cf09ec4/w/67ad1f3195909346f6fce440/e/1b6b82258fe1152a7bfe8b25?renderMode=0&uiState=6a58545f0304265e3b526dd9)
 
 ## Preview
 ![Design View](./image/Android-mascot-plaque.png)
