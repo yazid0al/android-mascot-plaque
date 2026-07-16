@@ -1,5 +1,10 @@
 # android-mascot-plaque
 
+🔗 **Live Share:** [Click here to view the design](https://cad.onshape.com/documents/a5fe635f7bb983e83cf09ec4/w/67ad1f3195909346f6fce440/e/1b6b82258fe1152a7bfe8b25?renderMode=0&uiState=6a58545f0304265e3b526dd9)
+
+## Preview
+![Design View](./image/Android-mascot-plaque.png)
+
 ## Overview
 This repository contains a CAD model featuring a customized, flat-profile design of the Android mascot. Built onto a square base plate, the design features the classic semicircular Android head, angled antennae, circular eyes, and stylized text, making it perfect for manufacturing as a physical plaque, sign. 
 
