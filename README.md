@@ -23,7 +23,7 @@ The design was modeled using a parametric CAD workflow, heavily relying on 2D sk
 * **Text Tool:** Along the top edge of the base plate, I utilized the sketch text tool to spell out "Android." 
 
 ### 4. Creating the 3D Profiles
-* Once the 2D sketch was fully defined (as seen in `image_d07205.png`), I used extrusion tools on the distinct bounded regions. 
+* Once the 2D sketch was fully defined, I used extrusion tools on the distinct bounded regions. 
 * By selecting the text, the head, the antennae, and the base plate separately, I was able to extrude them to different depths. This creates a multi-level relief effect, allowing the individual features to stand out from the background plate.
 
 ## Potential Applications
@@ -33,7 +33,7 @@ This model is highly versatile and can be exported for various manufacturing met
 
 ## Files Included
 * `image/Android-mascot-plaque.png`: The primary visual of the design.
-* `exports/`: Directory for manufacturing files (such as `.STL`, `.STEP`, or `.DXF`).
+* `exports/`: Directory for manufacturing files (such as `.STL` or `.DXF`).
 
 ## Usage
 To replicate, manufacture, or modify this design:
