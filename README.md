@@ -33,7 +33,7 @@ This model is highly versatile and can be exported for various manufacturing met
 
 ## Files Included
 * `image/Android-mascot-plaque.png`: The primary visual of the design.
-* `exports/`: Directory for manufacturing files (such as `.STL` or `.DXF`).
+* `exports/`: Directory for manufacturing files (`.STL`, `.DXF`, `3MF`, and `STEP`).
 
 ## Usage
 To replicate, manufacture, or modify this design:
